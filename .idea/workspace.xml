@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd0178d4-1455-4420-a001-090a170c3397" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/squelette-TP4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/border.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/cat.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/error.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business_model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business_model/compte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/properties.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao/abstract_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao/compte_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/commit_message.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/conflit_pycharm.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/diff_pycharm.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fichier_change_vsc.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fichier_staged_vsc.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen_test.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/symbole_git_vscode.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/vs_code_conflict.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/compte_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/create_tables.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/.cache/v/cache/lastfailed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_compte.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/abstract_vue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/accueil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/bienvenue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/compte_authentification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/compte_creation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_compte.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_compte.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
