@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd0178d4-1455-4420-a001-090a170c3397" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/test_compte2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test_compte.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_compte.py" afterDir="false" />
     </list>
@@ -32,7 +33,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_compte">
+  <component name="RunManager" selected="Python tests.Unittests for test_compte2.TestCompte.test_creer_compte">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="squelette-TP4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,9 +76,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test_compte2.TestCompte" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="squelette-TP4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_compte2.TestCompte&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_compte2.TestCompte.test_creer_compte" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="squelette-TP4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_compte2.TestCompte.test_creer_compte&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_compte2.TestCompte.test_valid_pseudo_connu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="squelette-TP4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_compte2.TestCompte.test_valid_pseudo_connu&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_compte2.TestCompte.test_creer_compte" />
+        <item itemvalue="Python tests.Unittests for test_compte2.TestCompte.test_valid_pseudo_connu" />
         <item itemvalue="Python.test_compte" />
+        <item itemvalue="Python tests.Unittests for test_compte2.TestCompte" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>

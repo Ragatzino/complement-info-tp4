@@ -4,6 +4,7 @@ from dao.compte_dao import CompteDao
 compte_service = CompteService()
 compte_dao = CompteDao()
 
+"""Pytest"""
 
 """ 
     assert verifie si la condition est vraie et fait en sorte que le programme s'arrête si la condition n'est pas vraie
